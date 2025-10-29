@@ -19,3 +19,5 @@ Install dependencies:
 ```bash
 pip install PyQt6 matplotlib
 ```
+## example 
+[example](preview.png)
