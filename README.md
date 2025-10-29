@@ -20,4 +20,6 @@ Install dependencies:
 pip install PyQt6 matplotlib
 ```
 ## example 
-[example](preview.png)
+<img src="preview.png" alt="this is a image" style="width: 100px; height: 30px;">
+
+---
